@@ -12,6 +12,6 @@ models/binaries
 .ipynb_checkpoints/
 
 # Images in the root (if they exist)
-*.jpg
+*2-Mujeres Latinoamericanas-Daiana lazzarin (2).jpg
 *.png
 *.psd
