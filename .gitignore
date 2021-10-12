@@ -11,7 +11,7 @@ models/binaries
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Images in the root (if they exist)
+# Images in the ro2-Mujeres Latinoamericanas-Daiana lazzarin (2).jpg 
 *.jpg
 *.png
 *.psd
